@@ -1,0 +1,130 @@
+{
+  "employees": [
+    {
+      "code": "emp_007",
+      "firstName": "Sumit",
+      "lastName": "Mahalkar",
+      "address": "Cidco N-9",
+      "phone": "9823380804",
+      "designation": "Team Leader"
+    },
+    {
+      "code": "emp_001",
+      "firstName": "Kiran",
+      "lastName": "Sirsath",
+      "address": "Cidco N-9",
+      "phone": "9922901401",
+      "designation": "Programmer"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Programmer",
+      "basicPay": 20000,
+      "da": {
+        "value": 10,
+        "percent": true
+      },
+      "hra": {
+        "value": 2,
+        "percent": true
+      },
+      "wa": {
+        "value": 2,
+        "percent": true
+      },
+      "gpf": {
+        "value": 2,
+        "percent": true
+      },
+      "it": {
+        "value": 2,
+        "percent": true
+      },
+      "gis": {
+        "value": 2,
+        "percent": true
+      },
+      "pf": {
+        "value": 2,
+        "percent": true
+      },
+      "lic": {
+        "value": 0,
+        "percent": true
+      }
+    },
+    {
+      "name": "CEO",
+      "basicPay": 50000,
+      "da": {
+        "value": 10,
+        "percent": true
+      },
+      "hra": {
+        "value": 2,
+        "percent": true
+      },
+      "wa": {
+        "value": 2,
+        "percent": true
+      },
+      "gpf": {
+        "value": 2,
+        "percent": true
+      },
+      "it": {
+        "value": 2,
+        "percent": true
+      },
+      "gis": {
+        "value": 2,
+        "percent": true
+      },
+      "pf": {
+        "value": 2,
+        "percent": true
+      },
+      "lic": {
+        "value": 0,
+        "percent": true
+      }
+    },
+    {
+      "name": "Team Leader",
+      "basicPay": 30000,
+      "da": {
+        "value": 2000,
+        "percent": false
+      },
+      "hra": {
+        "value": 500,
+        "percent": false
+      },
+      "wa": {
+        "value": 500,
+        "percent": false
+      },
+      "gpf": {
+        "value": 2,
+        "percent": true
+      },
+      "it": {
+        "value": 2,
+        "percent": true
+      },
+      "gis": {
+        "value": 2,
+        "percent": true
+      },
+      "pf": {
+        "value": 2,
+        "percent": true
+      },
+      "lic": {
+        "value": 0,
+        "percent": true
+      }
+    }
+  ]
+}
