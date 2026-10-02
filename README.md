@@ -3,7 +3,7 @@
 A full-stack **Payroll Management System** built with the **MERN stack (MongoDB, Express.js, React, Node.js)**. The application is designed to manage employees, salary structures, allowances, deductions, payroll calculations, and printable payslips from a clean responsive dashboard.
 
 <p align="center">
-  <img src="/assets/payroll-dashboard.png" alt="Payroll Management System dashboard preview" width="100%" />
+  <img src="./assets/payroll-dashboard.png" alt="Payroll Management System dashboard preview" width="100%" />
 </p>
 
 ## ✨ Features
